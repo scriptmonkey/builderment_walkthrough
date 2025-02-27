@@ -7,8 +7,8 @@ Builderment is a factory-building game where you’re tasked with mining resourc
 This guide aims to help you work through the Builderment tech tree to produce **0.5 Earth Tokens (ET) per minute** using **standard recipes only**—no alternative (alt) recipes. Why 0.5 ET per minute? It’s a practical target that balances speed and simplicity, achievable on any map seed you choose. While reaching 1 ET per minute is possible, it often requires long farming periods and more complex setups. By targeting 0.5 ET, you’ll learn the basics, build a solid factory, and finish faster without getting bogged down. (Alt recipes offer different paths, but we’ll save those for advanced topics later!)
 
 ## Table of Contents
-- [Waypoint 1: Metal Working](waypoint1.md) - Unlock foundational resources like Iron Gears and Copper Wire.
-- [Waypoint 2: Advanced Belts](waypoint2.md) - Improve logistics with the Belt Splitter and start farming gold.
-- [Waypoint 3: Storage](waypoint3.md) - Begin stockpiling resources for future tech.
+- [Waypoint 1: Metal Working](https://github.com/scriptmonkey/builderment_walkthrough/blob/main/wp01.md) - Unlock foundational resources like Iron Gears and Copper Wire.
+- [Waypoint 2: Advanced Belts](https://github.com/scriptmonkey/builderment_walkthrough/blob/main/wp02.md) - Improve logistics with the Belt Splitter and start farming gold.
+- [Waypoint 3: Storage](https://github.com/scriptmonkey/builderment_walkthrough/blob/main/wp03.md) - Begin stockpiling resources for future tech.
 
 ---
