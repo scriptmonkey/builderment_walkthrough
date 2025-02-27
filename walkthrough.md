@@ -15,7 +15,7 @@ To make your factory-building journey easier, we recommend using the **Builderme
   2. Select **"How much do I need to produce..."** from the top option—this mode calculates what you need to make your desired output.  
   3. In the **Desired Material** dropdown, choose **Earth Token**.  
   4. Set the **Desired Rate** to **0.5** (for 0.5 ET per minute).  
-  5. Max out all upgrades—slide every upgrade bar (like Extractor, Smelter, etc.) to the highest level—to assume fully upgraded buildings, matching our endgame goal.  
+  5. Max out all upgrades:  Click on the "Max All" button so that you have he highest level—to assume fully upgraded buildings, matching our endgame goal.  
   6. Click **Calculate**.  
 - **Keep It Handy**: I’ll be using this exact set of calculations throughout this walkthrough to guide our factory setup. You’ll see the results reflected in the waypoints as we build toward 0.5 ET per minute—so bookmark this link or keep the calculator open as we go!
 
