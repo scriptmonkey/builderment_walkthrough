@@ -8,3 +8,4 @@
 
 ## Selling Buildings
 
+## Do NOT mix resources on belts
